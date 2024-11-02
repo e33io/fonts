@@ -37,10 +37,7 @@ Based on a [modified](https://github.com/e33io/fonts/tree/main/PlexSerifMod/chan
 
 &nbsp;
 
-## Install Script
-use [`install-plex-fonts.sh`](https://github.com/e33io/scripts/blob/main/install-plex-fonts.sh) to install Plex fonts
-
-## Install Command
+## Install Command (Linux)
 ```
 curl -s https://raw.githubusercontent.com/e33io/scripts/refs/heads/main/install-plex-fonts.sh | sh
 ```
