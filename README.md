@@ -42,7 +42,7 @@ use [`install-plex-fonts.sh`](https://github.com/e33io/scripts/blob/main/install
 
 ## Install Command
 ```
-curl -s https://git.sr.ht/~e33io/scripts/blob/main/install-plex-fonts.sh | sh
+curl -s https://raw.githubusercontent.com/e33io/scripts/refs/heads/main/install-plex-fonts.sh | sh
 ```
 
 &nbsp;
