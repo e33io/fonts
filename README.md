@@ -37,9 +37,9 @@ Based on a [modified](https://github.com/e33io/fonts/tree/main/PlexSerifMod/chan
 
 &nbsp;
 
-## Install Command (Linux)
+## Install (Linux)
 ```
-curl -s https://raw.githubusercontent.com/e33io/scripts/refs/heads/main/install-plex-fonts.sh | sh
+curl -s https://raw.githubusercontent.com/e33io/fonts/refs/heads/main/install.sh | sh
 ```
 
 &nbsp;
