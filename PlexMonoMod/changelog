@@ -1,4 +1,8 @@
-PlexMonoMod font changelog:
+PlexMonoMod changelog
+
+-----------------------------------------------------------------------
+
+v1.0
 
 - updated the letter g and the number 0 character styles
 
@@ -10,8 +14,16 @@ PlexMonoMod font changelog:
 
 - updated the tilde ~ character style
 
+- added font variants patched with Nerd Font icons
+
+-----------------------------------------------------------------------
+
+v1.1
+
 - updated the regular font weight from 400 to 450-equivalent
 
 - updated the bold font weight from 700 to 600-equivalent
 
-- additional font variants patched with Nerd Font icons
+- updated the font variants patched with Nerd Font icons
+
+-----------------------------------------------------------------------
